@@ -1,0 +1,21 @@
+# 运行时数据（不要提交）
+config.json
+config.json.bak
+data/
+demo/
+chrome-profile/
+logs/
+scratch/
+state/
+node_modules/
+*.log
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 发布工程（用户自己的视频素材）
+发布工程/
+*.bak
